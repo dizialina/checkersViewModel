@@ -53,7 +53,6 @@
 		84A066CB1C0246D70031833D /* TouchesHomeworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TouchesHomeworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A066CF1C0246D70031833D /* TouchesHomeworkUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchesHomeworkUITests.m; sourceTree = "<group>"; };
 		84A066D11C0246D70031833D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		84A066DD1C0246F00031833D /* TaskDescription.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaskDescription.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +103,6 @@
 		84A066A61C0246D70031833D /* TouchesHomework */ = {
 			isa = PBXGroup;
 			children = (
-				84A066DD1C0246F00031833D /* TaskDescription.h */,
 				84A066AA1C0246D70031833D /* AppDelegate.h */,
 				84A066AB1C0246D70031833D /* AppDelegate.m */,
 				84A066AD1C0246D70031833D /* ViewController.h */,
@@ -504,6 +502,7 @@
 				84A066D61C0246D70031833D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84A066D71C0246D70031833D /* Build configuration list for PBXNativeTarget "TouchesHomeworkTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +511,7 @@
 				84A066D91C0246D70031833D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84A066DA1C0246D70031833D /* Build configuration list for PBXNativeTarget "TouchesHomeworkUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +520,7 @@
 				84A066DC1C0246D70031833D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
