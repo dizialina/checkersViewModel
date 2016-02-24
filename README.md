@@ -16,3 +16,7 @@ This is a play board for checkers with figures.
 4. CGAffineTransform and UIView animation block with duration to make animations for picked-up checkers and put them on board.
 5. Methods of UIResponder that look after all touches for processing them (touchesBegan, touchesMoved, touchesEnded).
 6. UITouch for determing point of your touch on screen and making actions with touched UIViews.
+
+##Screenshots:
+![Alt text](http://clip2net.com/clip/m496854/c59e2-clip-57kb.jpg "Optional title")
+![Alt text](http://clip2net.com/clip/m496854/e89bf-clip-57kb.jpg "Optional title")
